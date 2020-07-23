@@ -2,7 +2,7 @@
 Finding music trends from 2010 through 2019.
 
 # Proposal:
-Our project is to uncover trends in music by examining the properties of popular songs from the past decade.
+This project is to uncover trends in music by examining the properties of popular songs from the past decade.
  
  We examined relationships between valence, energy and danceability versus popularity, the overall changes of these properties over time, and the properties of the most popular genre versus other genres.
  
