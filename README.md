@@ -1,4 +1,4 @@
-# Project1-Music-Analysis
+# Music-Analysis
 Finding music trends from 2010 through 2019.
 
 # Proposal:
